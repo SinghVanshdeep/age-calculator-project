@@ -1,2 +1,2 @@
 # age-calculator-project
-Web Dev Project 1. Age Calculator
+Age Calculator Project. Web Dev Projects 1/60
